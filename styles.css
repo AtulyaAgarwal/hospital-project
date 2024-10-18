@@ -1,0 +1,24 @@
+.sidebar {
+  width: 100px;
+  height: 1024px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #FFFFFF;
+  box-shadow: 6px 0px 15px 0px #E3E3ED;
+  opacity: 1;
+  z-index: 1;
+}
+
+/* Topbar Styles */
+.topbar {
+  width: 1340px;
+  height: 100px;
+  position: absolute;
+  top: 0;
+  left: 100px;
+  background-color: #FFFFFF;
+  opacity: 1;
+  z-index: 2;
+  box-shadow: 0px 6px 15px 0px #E3E3ED;
+}
